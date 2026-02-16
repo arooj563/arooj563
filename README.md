@@ -22,7 +22,7 @@ A complete responsive portfolio website.
 
 ### 🔹 Makeup Landing Page  
 Modern UI landing page.  
-👉 Live :https://arooj563.github.io/Make-up-landing-page-project2/
+👉 Live :t https://arooj563.github.io/Make-up-landing-page/
 
 ### 🔹 Form Validation  
 Simple JavaScript validation form.  
