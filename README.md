@@ -30,13 +30,13 @@ Simple JavaScript validation form.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 JavaScript (Intermediate)  
-Modern UI design  
+Modern UI design
 
 ---
 
-## 📫 Contact Me  
-Email: (add your email)  
+##  Contact Me  
+Email: arroojfatima236@gmail.com
 GitHub: https://github.com/arooj563
 
