@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Arooj Fatima 
+### Frontend Developer | HTML • CSS • JavaScript
 
-<!--
-**arooj563/arooj563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I am a frontend developer from Pakistan, currently working on building clean and responsive web designs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Responsive Web Design  
+- UI/UX Basics  
+
+---
+
+## 📌 Featured Projects
+### 🔹 Personal Portfolio  
+A complete responsive portfolio website.  
+👉 Live: https://arooj563.github.io/personal-portfolio-website/
+
+### 🔹 Makeup Landing Page  
+Modern UI landing page.  
+👉 Live :https://arooj563.github.io/Make-up-landing-page-project2/
+
+### 🔹 Form Validation  
+Simple JavaScript validation form.  
+👉 Live :https://arooj563.github.io/validation-form/
+
+---
+
+## 🌱 Currently Learning
+JavaScript (Intermediate)  
+Modern UI design  
+
+---
+
+## 📫 Contact Me  
+Email: (add your email)  
+GitHub: https://github.com/arooj563
+
